@@ -1,0 +1,232 @@
+[
+  {
+    "code": "5541",
+    "description": "Service Stations(with out Ancillary services)",
+    "category": "Transportation"
+  },
+  {
+    "code": "5411",
+    "description": "Grocery Stores, Supermarkets",
+    "category": "Retail"
+  },
+  {
+    "code": "5812",
+    "description": "Eating Places and Restaurants",
+    "category": "Food & Dining"
+  },
+  {
+    "code": "9399",
+    "description": "Government Services, Not Elsewhere Classified",
+    "category": "Services"
+  },
+  {
+    "code": "5921",
+    "description": "Package Stores, Beer, Wine, Liquor",
+    "category": "Retail"
+  },
+  {
+    "code": "5311",
+    "description": "Department Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "5699",
+    "description": "Miscellaneous Apparel and Accessory Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "8062",
+    "description": "Hospitals",
+    "category": "Healthcare"
+  },
+  {
+    "code": "5912",
+    "description": "Drug Stores and Pharmacies",
+    "category": "Healthcare"
+  },
+  {
+    "code": "4111",
+    "description": "Local/Suburbn Commuter Passngr Transport/Ferries",
+    "category": "Transportation"
+  },
+  {
+    "code": "5813",
+    "description": "Drinking Places (Alcoholic Bev) - Bars, Taverns",
+    "category": "Food & Dining"
+  },
+  {
+    "code": "5651",
+    "description": "Family Clothing Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "5944",
+    "description": "Jewelry, Watches, Clocks and Silverware Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "7011",
+    "description": "Lodging - Hotels, Motels, Resorts",
+    "category": "Services"
+  },
+  {
+    "code": "5691",
+    "description": "Men's and Women's Clothing Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "5814",
+    "description": "Fast Food Restaurants",
+    "category": "Food & Dining"
+  },
+  {
+    "code": "5462",
+    "description": "Bakeries",
+    "category": "Food & Dining"
+  },
+  {
+    "code": "5732",
+    "description": "Radio, Television and Stereo Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "5661",
+    "description": "Shoe Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "4812",
+    "description": "Telecomm Equipment including Telephone Sales",
+    "category": "Services"
+  },
+  {
+    "code": "5499",
+    "description": "Misc Food/Convenience Stores/Speciality Markets",
+    "category": "Retail"
+  },
+  {
+    "code": "4900",
+    "description": "Utilities-Electric/Gas/Heating Oil/Sanitary/Water",
+    "category": "Utilities"
+  },
+  {
+    "code": "4814",
+    "description": "Telecommunication Services",
+    "category": "Services"
+  },
+  {
+    "code": "5722",
+    "description": "Household Appliance Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "8299",
+    "description": "Schools and Educational Services",
+    "category": "Education"
+  },
+  {
+    "code": "7832",
+    "description": "Motion Pictures Theaters",
+    "category": "Entertainment"
+  },
+  {
+    "code": "5047",
+    "description": "Dental/Laboratory/Medical/Ophthalmic Hospital Supp",
+    "category": "Healthcare"
+  },
+  {
+    "code": "5137",
+    "description": "Men's, Women's, And Children's Uniforms",
+    "category": "Retail"
+  },
+  {
+    "code": "5511",
+    "description": "Auto and Truck Dealers(new and used) Sales,Service",
+    "category": "Retail"
+  },
+  {
+    "code": "4112",
+    "description": "Passenger Railways",
+    "category": "Transportation"
+  },
+  {
+    "code": "5399",
+    "description": "Miscellaneous General Merchandise Stores",
+    "category": "Retail"
+  },
+  {
+    "code": "6300",
+    "description": "Insurance - Sales and Underwriting",
+    "category": "Financial Services"
+  },
+  {
+    "code": "5816",
+    "description": "Digital Goods: Games",
+    "category": "Entertainment"
+  },
+  {
+    "code": "6540",
+    "description": "Debit Card to wallet Credit",
+    "category": "Financial Services"
+  },
+  {
+    "code": "7399",
+    "description": "Business Services, Not Elsewhere Classified",
+    "category": "Services"
+  },
+  {
+    "code": "8220",
+    "description": "Colleges,Universities,Professional Schools and Jr",
+    "category": "Education"
+  },
+  {
+    "code": "6513",
+    "description": "Real Estate Agents and Managers - Rentals",
+    "category": "Services"
+  },
+  {
+    "code": "4784",
+    "description": "Toll and Bridge Fees",
+    "category": "Transportation"
+  },
+  {
+    "code": "6012",
+    "description": "Financial Institutions - Merchandise and Services",
+    "category": "Financial Services"
+  },
+  {
+    "code": "4722",
+    "description": "Travel Agencies",
+    "category": "Services"
+  },
+  {
+    "code": "4899",
+    "description": "Cable/Satellite/Other Pay Television/ Radio Srvcs",
+    "category": "Entertainment"
+  },
+  {
+    "code": "8211",
+    "description": "Elementary and Secondary Schools",
+    "category": "Education"
+  },
+  {
+    "code": "5817",
+    "description": "Digital Good - Applications (Excluding Games)",
+    "category": "Entertainment"
+  },
+  {
+    "code": "7372",
+    "description": "Computer and Data Processing Services",
+    "category": "Services"
+  },
+  {
+    "code": "9311",
+    "description": "Tax Payments",
+    "category": "Financial Services"
+  },
+  {
+    "code": "4131",
+    "description": "Bus Lines",
+    "category": "Transportation"
+  }
+]

@@ -8,6 +8,8 @@ web-build/
 expo-env.d.ts
 
 finanz/node_modules
+server/node_modules
+server/.env
 # Native
 *.orig.*
 *.jks
